@@ -9,4 +9,4 @@ Galleriasta voi lukea tarkemmin Skrollin numerosta TODO sivulta TODO: TODO.
 
 Ohjelmakoodi on lisensoitu [MIT-lisenssillä](https://fi.wikipedia.org/wiki/MIT-lisenssi) copyright (c) 2023 Skrolli ry.
 
-Kaikki kuvat on lisensoitu [Creative Commons Nimeä-JaaSamoin 4.0 Kansainvälinen](http://creativecommons.org/licenses/by-sa/4.0/deed.fi) lisenssillä.
+Kaikki kuvat ja vitsin takaa tekstit on lisensoitu [Creative Commons Nimeä-JaaSamoin 4.0 Kansainvälinen](http://creativecommons.org/licenses/by-sa/4.0/deed.fi) lisenssillä.
