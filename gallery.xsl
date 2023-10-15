@@ -8,7 +8,7 @@
 >
     <xsl:output method="html"/>
 
-    <xsl:template match="/image" name="xsl:initial-template">
+    <xsl:template match="/navigation" name="xsl:initial-template">
         <html lang="fi"> 
             <head>
                 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>

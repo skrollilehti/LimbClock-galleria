@@ -24,14 +24,14 @@ function last_link {
     echo "<last><a href=\"$(html_filename $1)\">Viimeinen</a></last>"
 }
 
-function image {
+function navigation {
     local -r first=$1
     local -r prev=$2
     local -r curr=$3
     local -r next=$4
     local -r last=$5
 
-    echo "<image>"
+    echo "<navigation>"
     echo "  $(first_link $first)"
     if [[ $prev != "NULL" ]]
     then
@@ -43,7 +43,7 @@ function image {
         echo "  $(next_link $next)"
     fi
     echo "  $(last_link $last)"
-    echo "</image>"
+    echo "</navigation>"
 }
 
 declare -r input_file=$1; shift
@@ -59,7 +59,7 @@ for file in $@
 do
     if [[ $curr == $input_file ]]
     then
-        image $first $prev $curr $next $last
+        navigation $first $prev $curr $next $last
         exit 0
     fi
 
@@ -70,7 +70,7 @@ done
 
 if [[ $curr == $input_file ]]
 then
-    image $first $prev $curr $next $last
+    navigation $first $prev $curr $next $last
     exit 0
 fi
 
@@ -80,6 +80,6 @@ next="NULL"
 
 if [[ $curr == $input_file ]]
 then
-    image $first $prev $curr $next $last
+    navigation $first $prev $curr $next $last
     exit 0
 fi

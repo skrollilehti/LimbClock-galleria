@@ -23,10 +23,10 @@ $(BUILD_DIR): $(SRC_IMAGES) $(SRC_OTHER)
 	@touch $@
 
 %.xml: %.png
-	@$(BIN_DIR)/gallery-init.sh $< $(SRC_IMAGES) > $@
+	@$(BIN_DIR)/image-navigation-links.sh $< $(SRC_IMAGES) > $@
 
 %.xml: %.jpg
-	@$(BIN_DIR)/gallery-init.sh $< $(SRC_IMAGES) > $@
+	@$(BIN_DIR)/image-navigation-links.sh $< $(SRC_IMAGES) > $@
 
 $(BUILD_DIR)/%.html: %.xml gallery.xsl
 	$(BIN_DIR)/saxon-xslt.sh $^ -o:$@
