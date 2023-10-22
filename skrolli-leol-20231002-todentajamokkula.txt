@@ -1,0 +1,3 @@
+Olen kuullut tästä 3-2-1 varmuuskopio metodista: 3 varmuus kopiota, 2:lla eri formaatilla joista 1 on toisessa sijainnissa.
+
+Ukki ottaa tietoturvallisuuden vakavasti, mutta tässä on esillä "Security Through Obscurity", joka on aika absurdi keino tietojen turvaamiseen. Toki, onhan se mahdollista että jos on sellainen erillinen todentajamokkula, sitä todellakin kannattaa säilyttää kassakaapissa.
