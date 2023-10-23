@@ -2,4 +2,4 @@ Tietty osa tämän palvelimen yhteisöstä kyllä ymmärtää vitsin.
 
 Sivuhuomautus:
 
-On mahdollista että tämä vitsi sijoittuu rinnakkaistodellisuuteen jossa USENETissä on vieläkin ihmisiä keskustelemassa, koska he eivät tahtoneet siirtyä Twitteriin, Facebookiin yms. Tai sitten he siirtyivät sinne takaisin koska kaipasivat tietynlaista yhteisöä
+On mahdollista että tämä vitsi sijoittuu rinnakkaistodellisuuteen jossa USENETissä on vieläkin ihmisiä keskustelemassa, koska he eivät tahtoneet siirtyä Twitteriin, Facebookiin tjms. Tai sitten he siirtyivät takaisin USENETtiin koska kaipasivat tietynlaista yhteisöä.

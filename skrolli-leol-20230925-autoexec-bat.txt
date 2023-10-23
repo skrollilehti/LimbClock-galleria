@@ -1,2 +1,1 @@
-ajatus siinä että toteuttamisen vaikeus merkitsee sitä, että käyttäjistä tulee pitkäjänteisempiä ongelmien ratkoajia. Samalla tulee myös teknistä taitoa kun joutuu ratkomaan esim Extended Memory ja Real Memory ongelmia
-plus IRQ konfliktit jne.
+Ajatus että käyttäjistä tulee pitkäjänteisempiä ongelmien ratkojia ja teknisesti taitavampia kun toteuttaminen on vaikeaa ja joutuu ratkomaan esim. extended memory ja real memory ongelmia tai IRQ konflikteja.
