@@ -1,3 +1,3 @@
-Vitsin takaa: Kun tämä uutinen ilmestyi, olin jotenkin sitä mieltä, ignoranttina maalikkona, että jonkun oli oltava pilvessä (heh heh) jos tämä päätös tehtiin tämän kumppanin kanssa.
+Uutisen ilmestyessä olin, näin ignoranttina maallikkona, sitä mieltä että päätöksentekijöiden oli oltava pilvessä kun päätyivät tähän kumppaniin.
 
-Havainto: Suomessa ei taideta käyttää AWS palveluja...Microsoft Azure käyttö on jokseenkin yleistä
+Oma havaintoni: Suomessa ei taideta käyttää AWS palveluja mutta Microsoft Azuren käyttö on yleistä.
