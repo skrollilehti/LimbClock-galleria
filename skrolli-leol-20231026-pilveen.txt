@@ -1,0 +1,3 @@
+Vitsin takaa: Kun tämä uutinen ilmestyi, olin jotenkin sitä mieltä, ignoranttina maalikkona, että jonkun oli oltava pilvessä (heh heh) jos tämä päätös tehtiin tämän kumppanin kanssa.
+
+Havainto: Suomessa ei taideta käyttää AWS palveluja...Microsoft Azure käyttö on jokseenkin yleistä
