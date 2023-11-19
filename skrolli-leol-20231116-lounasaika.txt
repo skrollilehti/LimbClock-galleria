@@ -1,0 +1,1 @@
+Vitsin takaa: Jos käytätte sitä Unix Epoch timer dekooderia, saatte selville sen tarkan kellonajan jolloin strippi oli valmis.
