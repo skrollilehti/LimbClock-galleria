@@ -1,0 +1,3 @@
+Vitsin takaa:
+
+Isän repliikki saattaa olla hieman teknologisesti väärin. Tarkoitin kirjoittaa, että Pojalla on apuväline tietokone grafiikan luomisessa, kun taas isä joutui koodaamaan spritet ja pikselien paikat koneen näyttömuistiin.
