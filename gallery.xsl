@@ -22,7 +22,13 @@
                 <p>Leo Loikkasen <a href="https://limbclock.itch.io/">limbclock</a>-nimimerkillä <a href="https://skrolli.fi/">Skrollin</a><xsl:text> </xsl:text><a href="https://skrolli.fi/lukijakanavat/">lukijakanavilla</a> julkaisemaa kuvitusta.</p>
                 <p>Kaikki kuvat ja "vitsin takaa"-tekstit on lisensoitu <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.fi">Creative Commons Nimeä-JaaSamoin 4.0 Kansainvälinen</a> lisenssillä.</p>
                 <img id="license_image" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"/>
-                <div id="navi">
+                <div id="navi_years">
+                  [<a href="2023/alku">2023 alku</a>]
+                  [<a href="2023/loppu">2023 loppu</a>]
+                  [<a href="2024/alku">2024 alku</a>]
+                  [<a href="2024/loppu">2024 loppu</a>]
+                </div>
+                <div id="navi_all">
                     <xsl:apply-templates select="navigation/first|navigation/prev|navigation/next|navigation/last"/>
                 </div>
                 <xsl:apply-templates select="description"/>
