@@ -4,7 +4,7 @@ BUILD_DIR := build
 
 # Kerätään muuttujaan kaikki kuvatiedostot ja järjestetään ne tiedotosnimen
 # perusteella.
-SRC_IMAGES := $(sort $(wildcard *.png) $(wildcard *.jpg))
+SRC_IMAGES := $(sort $(wildcard *.png) $(wildcard *.jpg) $(wildcard *.webp))
 
 # Esimerkki miten muuttujien arvoja voidaan tulostaa. Käytetään vain vianetsinnässä.
 # $(info SRC_IMAGES: $(SRC_IMAGES))
@@ -14,13 +14,14 @@ SRC_OTHER := .htaccess gallery.css
 
 # Luodaan kuvatiedostojen nimien perusteella lopullisten HTML tiedostojen
 # nimet:
-# 1) korvataan .png ja .jpg tiedostopäätteet .html tiedostopäätteellä
+# 1) korvataan .png, .jpg ja .webp tiedostopäätteet .html tiedostopäätteellä
 # 2) lisätään jokaisen nimen alkuun build/ polku
 # Esimerkki:
 # lähtötiedosto: skrolli-leol-20230922-ping.png
 # kohdetiedosto: build/skrolli-leol-20230922-ping.html
 HTML := $(patsubst %.png, %.html, $(SRC_IMAGES))
 HTML := $(patsubst %.jpg, %.html, $(HTML))
+HTML := $(patsubst %.webp, %.html, $(HTML))
 HTML := $(addprefix $(BUILD_DIR)/, $(HTML))
 
 # Esimerkki miten muuttujien arvoja voidaan tulostaa. Käytetään vain vianetsinnässä.
@@ -74,6 +75,10 @@ $(BUILD_DIR): $(SRC_IMAGES) $(SRC_OTHER)
 
 # Sama kuin edellä mutta .jpg tiedostosta.
 %.xml: %.jpg
+	@$(BIN_DIR)/image-metadata.sh $< $(SRC_IMAGES) > $@
+
+# Sama kuin edellä mutta .webp tiedostosta.
+%.xml: %.webp
 	@$(BIN_DIR)/image-metadata.sh $< $(SRC_IMAGES) > $@
 
 # Sääntö jolla luodaan edellisilla säännöillä luodusta .xml tiedostosta
