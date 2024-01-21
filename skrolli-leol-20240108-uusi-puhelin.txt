@@ -1,1 +1,1 @@
-Vitsin takaa: Niin, käytetyissä puhelimissa on tietysti aina se vaara, että vaikka ne olisivat kuinka kunnostettuja, niiden tuki re. tietoturvapäivitykset ei aina ole niin pitkä. Tilanne on pahempi Android puhelimilla, joissa riippuen mallista se aika jolloin tietoturvapäivityksiä tulee on joko 2 tai 3 vuotta.
+Käytetyissä puhelimissa on aina vaarana, että vaikka ne olisivat kuinka kunnostettuja, niiden tuki (lue: tietoturvapäivitykset) kuitenkin loppuvat pian. Tilanne on pahin Android puhelimilla joissa, mallista riippuen, tietoturvapäivityksiä tulee vain 2-3 vuotta.
