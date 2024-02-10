@@ -1,1 +1,1 @@
-Vitsin takaa: Toivottavasti kukaan GNU/HURDin käyttäjä ei loukkaannu tästä.
+Toivottavasti kukaan GNU/HURD-käyttäjä ei loukkaannu tästä.
