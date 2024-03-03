@@ -1,0 +1,3 @@
+Sanoisin että varaosat sana on hieman väärä, mutta sen avulla vitsi toimii. Olisihan se täysin epäuskottavaa jos Ukki itse rakentaisi diodit, kondensaattorit, resistorit jne. Uskottavampaa on että Ukki rakentaa itse PCB-levyt ja istuttaa niihin komponentit, luoden logiikkakortteja joiden avulla kone pysyy toiminnassa.
+
+Muistan että esim. PDP-1:ssä ei ollut kiinteää CPU IC:tä, vaan CPU koostui useista PDB-korteista, joiden yhteistoiminta loi keskusyksikön.

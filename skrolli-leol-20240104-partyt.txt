@@ -1,0 +1,5 @@
+Vaikka Ukki käyttää hieman vanhentunutta termiä niin ideana on että osallistujat käyttävät pääte-emulaattoria tietokoneellaan ja ottavat etäyhteyden Ukin UNIX palvelimeen/koneeseen jossa sitten chattaavat keskenään, kirjoittavat ohjelmia jne.
+
+Ukki on toisaalta puristi joten hän on mahdollistanut yhteydenoton myös vaikka Digitalin VT-päätteillä jos jollakin sellainen sattuisi olemaan.
+
+Millä infrastruktuurilla? Ah, no se onkin sitten osallistujien ratkaistava.

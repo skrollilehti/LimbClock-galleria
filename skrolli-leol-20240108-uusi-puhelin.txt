@@ -1,0 +1,1 @@
+Käytetyissä puhelimissa on aina vaarana, että vaikka ne olisivat kuinka kunnostettuja, niiden tuki (lue: tietoturvapäivitykset) kuitenkin loppuvat pian. Tilanne on pahin Android puhelimilla joissa, mallista riippuen, tietoturvapäivityksiä tulee vain 2-3 vuotta.

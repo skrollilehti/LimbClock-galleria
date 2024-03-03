@@ -11,7 +11,7 @@ function html_filename {
 }
 
 function first_link {
-    echo "<first><a href=\"$(html_filename $1)\">Ensimmäinen</a></first>"
+    echo "<first><a href=\"ensimmainen\">Ensimmäinen</a></first>"
 }
 
 function prev_link {
@@ -23,7 +23,7 @@ function next_link {
 }
 
 function last_link {
-    echo "<last><a href=\"$(html_filename $1)\">Viimeinen</a></last>"
+    echo "<last><a href=\"viimeinen\">Viimeinen</a></last>"
 }
 
 function navigation {
@@ -34,7 +34,7 @@ function navigation {
     local -r last=$5
 
     echo "  <navigation>"
-    echo "    $(first_link $first)"
+    echo "    $(first_link)"
     if [[ $prev != "NULL" ]]
     then
         echo "    $(prev_link $prev)"
@@ -43,7 +43,7 @@ function navigation {
     then
         echo "    $(next_link $next)"
     fi
-    echo "    $(last_link $last)"
+    echo "    $(last_link)"
     echo "  </navigation>"
 }
 
