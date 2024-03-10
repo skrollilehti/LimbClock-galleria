@@ -1,3 +1,3 @@
-Tämä piirrettin silloin kun Mastodonissa alkoi olla taas uusi nousu. Mielestäni vitsiä inspiroi se, että jokin suomen alueellinen poliisilaitos oli pistänyt itselleen pystyyn Mastodon palvelimen pikaviestintää varten.
+Tämä piirrettin silloin kun Mastodon oli jälleen hetken kaikkien huulilla ja jokin Suomen alueellinen poliisilaitos oli pistänyt itselleen pystyyn Mastodon palvelimen pikaviestintää varten.
 
-Idea siitä että jollain suvulla olisi Mastodon palvelin perheen välisiin viestimiseen on mielenkiintoinen idea.
+Oma Mastodon palvelin suvun sisäiseen viestintään on mielenkiintoinen idea.
