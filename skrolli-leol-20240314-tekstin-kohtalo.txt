@@ -1,7 +1,3 @@
-Vitsin Takaa:
+Vitsin ideana on että "tekstipohjaiset järjestelmät ovat helpompia ymmärtää koska ne eivät vaadi käyttäjältä kykyä tulkita ikoneita ja niiden käyttötarkoituksia."
 
-Vitsin viesti toimii: "tekstipohjaiset järjestelmät ovat helpompi ymmärtää koska ne eivät vaadi käyttäjältä kykyä tulkita ikoneita ja niiden käyttötarkoituksia."
-
-Huipennus on hieman heikko. Alunperin siinä luki "Juu, ne toimivat Loistavasti. Mutta kenelläkään ei ole kärsivällisyyttä lukea tekstiä", mutta pelkäsin että se oli liian pitkä.
-
-Ja kyllä, se Apotti järjestelmä on ollut mielessä kun tätä on piirretty.
+Ja kyllä, ajattelin Apottia tätä piirtäessäni.
