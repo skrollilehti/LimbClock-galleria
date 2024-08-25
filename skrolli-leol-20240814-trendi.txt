@@ -1,0 +1,1 @@
+Vitsin takaa: Vitsi perustuu keskusteluun itseni ja veljeni kanssa. Hän valitteli nykyistä ohjelmistokehitystä. En muista yksityiskohtia, mutta mainitsin että olisi hauksaa jos olisi jokin 'visio ensin' paradigma, jossa ohjelmistokehitys seuraa orjallisesti pitchaajan visiota ohjelmasta, ei todellisuutta.
