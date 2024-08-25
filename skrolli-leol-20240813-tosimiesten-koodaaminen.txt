@@ -1,1 +1,1 @@
-Vitsin takaa: Vitsi on kirjoitettu vähäisellä inspiraatiolla. Halusin tehdä "tosimiehet eivät X, he Y" tyylisen vitsin, mutta tietokonekulttuurisen
+Tämä on tietokonekulttuurinen "tosimiehet eivät X, he Y" vitsi.
