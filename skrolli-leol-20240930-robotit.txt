@@ -1,3 +1,1 @@
-Vitsin takaa:
-
-Vitsi aukeaa paremmin jos tietää mitä sana 'robotti' tarkoittaa siinä kielessä josta sana alunperin tulee
+Vitsi aukeaa paremmin jos tietää mitä sana "robotti" tarkoittaa kielessä josta sana alunperin on kotoisin.

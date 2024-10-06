@@ -1,2 +1,1 @@
-Vitsin takaa: Vitsi perustuu tekemääni QBASIC demoon Skrolli Partyillä 2024.
-koodi oli tiukat 43 riviä
+Vitsi perustuu tekemääni QBASIC demoon Skrolli Partyillä 2024. Koodi oli tiukat 43 riviä.
