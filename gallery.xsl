@@ -9,14 +9,30 @@
     <xsl:output method="html"/>
 
     <xsl:template match="/meta" name="xsl:initial-template">
-        <html lang="fi"> 
-            <head>
+        <html lang="fi">
+            <head prefix="og: https://ogp.me/ns#">
                 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
                 <meta name="description" content="Leo Loikkasen Skrollin lukijakanavilla julkaisemaa kuvitusta (CC BY-SA 4.0)."/>
                 <meta name="author" content="webmaster@metsankulma.net"/>
                 <link rel="stylesheet" type="text/css" href="gallery.css"/>
-                <title>limbclock @ Skrollin lukijakanavat</title> 
-            </head> 
+                <title>limbclock @ Skrollin lukijakanavat</title>
+                <meta property="og:site_name" content="Metsänkulma"/>
+                <meta property="og:title">
+                  <xsl:attribute name="content">
+                    <xsl:value-of select="title"/>
+                  </xsl:attribute>
+                </meta>
+                <meta property="og:url">
+                  <xsl:attribute name="content">
+                    <xsl:value-of select="url/page"/>
+                  </xsl:attribute>
+                </meta>
+                <meta property="og:image">
+                  <xsl:attribute name="content">
+                    <xsl:value-of select="url/image"/>
+                  </xsl:attribute>
+                </meta>
+            </head>
             <body>
                 <h1>limbclock @ Skrollin lukijakanavat</h1>
                 <p>Leo Loikkasen <a href="https://limbclock.itch.io/">limbclock</a>-nimimerkillä <a href="https://skrolli.fi/">Skrollin</a><xsl:text> </xsl:text><a href="https://skrolli.fi/lukijakanavat/">lukijakanavilla</a> julkaisemaa kuvitusta.</p>

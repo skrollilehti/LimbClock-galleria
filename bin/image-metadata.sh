@@ -68,6 +68,23 @@ function image {
 
 # ------------------------------------------------------------------------------
 
+function url {
+    local -r host="http://limbclock.metsankulma.net"
+    echo "  <url>"
+    echo "    <page>${host}/$(html_filename $1)</page>"
+    echo "    <image>${host}/$1</image>"
+    echo "  </url>"
+}
+
+# ------------------------------------------------------------------------------
+
+function title {
+    [[ $1 =~ [0-9]+-(.*)\. ]]
+    echo "  <title>${BASH_REMATCH[1]//-/ }</title>"
+}
+
+# ------------------------------------------------------------------------------
+
 function meta {
     local -r first=$1
     local -r prev=$2
@@ -76,6 +93,8 @@ function meta {
     local -r last=$5
 
     echo "<meta>"
+    title $curr
+    url $curr
     image $curr
     description $curr
     navigation $first $prev $curr $next $last
