@@ -43,6 +43,8 @@
                   [<a href="2023/loppu">2023 loppu</a>]
                   [<a href="2024/alku">2024 alku</a>]
                   [<a href="2024/loppu">2024 loppu</a>]
+                  [<a href="2025/alku">2025 alku</a>]
+                  [<a href="2025/loppu">2025 loppu</a>]
                 </div>
                 <div id="navi_all">
                     <xsl:apply-templates select="navigation/first|navigation/prev|navigation/next|navigation/last"/>
