@@ -1,1 +1,1 @@
-Vitsin takaa: miksi tehdä se helposti kun tehtävän suorittamiseen täytyy rakentaa uusi ohjelmointikieli kaikilla mausteilla
+Miksi tehdä helposti jos sen sijaan tehtävän suorittamiseen voi rakentaa uuden ohjelmointikielen kaikilla mausteilla?
