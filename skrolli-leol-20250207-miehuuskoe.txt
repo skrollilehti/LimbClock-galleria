@@ -1,1 +1,1 @@
-Vitsin takaa: Olin yrittänyt vääntää vitsiä siitä että ukki löytää kirpputorilta tai jostain muualta UNIX System V asennusmediat, ja aikoo pitää Serkulle ja Isälle "miehuuskokeen" en vaan saanut sitä vitsin versiota koskaan toimimaan
+Olin yrittänyt vääntää vitsiä siitä että Ukki löytää kirpputorilta tai jostain muualta UNIX System V asennusmediat, ja aikoo pitää Serkulle ja Isälle "miehuuskokeen". En vaan saanut sitä versiota koskaan toimimaan joten ideasta syntyi sitten tällainen strippi.
