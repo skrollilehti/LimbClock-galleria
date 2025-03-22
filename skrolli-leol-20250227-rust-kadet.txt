@@ -1,1 +1,1 @@
-Vitsin takaa: Desktop asiakas taas kettuilee. Onneksi sain ladattua uusimman stripin verkkosivun kautta. Koska englanniksi rust devaajia kutsutaan "rustacean" joka viittaa sanaan crustacean joka  tarkoittaa kaikkia rapueläimiä
+Discordin desktop-ohjelma taas kettuilee. Onneksi sain ladattua uusimman stripin verkkosivun kautta. Englanniksi Rust devaajia kutsutaan "rustacean" joka viittaa sanaan "crustacean" joka tarkoittaa kaikkia rapueläimiä.
