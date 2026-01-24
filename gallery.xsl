@@ -35,7 +35,7 @@
             </head>
             <body>
                 <h1>limbclock @ Skrollin lukijakanavat</h1>
-                <p>Leo Loikkasen <a href="https://limbclock.itch.io/">limbclock</a>-nimimerkillä <a href="https://skrolli.fi/">Skrollin</a><xsl:text> </xsl:text><a href="https://skrolli.fi/lukijakanavat/">lukijakanavilla</a> julkaisemaa kuvitusta.</p>
+                <p>Leo Loikkasen <a href="https://limbclock.itch.io/">limbclock</a>-nimimerkillä <a href="https://skrolli.fi/">Skrollin</a><xsl:text> </xsl:text><a href="https://skrolli.fi/lukijakanavat/">lukijakanavilla</a> julkaisemaa kuvitusta. Isä ja Poika strippien <a href="hahmogalleria">hahmogalleria</a>.</p>
                 <p>Kaikki kuvat ja "vitsin takaa"-tekstit on lisensoitu <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.fi">Creative Commons Nimeä-JaaSamoin 4.0 Kansainvälinen</a> lisenssillä.</p>
                 <img id="license_image" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"/>
                 <div id="navi_years">
