@@ -1,0 +1,15 @@
+services:
+  web:
+    # Luodaan image Dockerfilen perusteella.
+    build:
+      context: .
+      dockerfile: Dockerfile
+    # Annetaan imagelle tunnistettava nimi.
+    image: limbclock-galleria:latest
+    # Määritellään mitkä portit näkyvät kontista ulospäin.
+    ports:
+      - "80:80"
+    # Määritellään build/ hakemisto näkymään kontin sisällä polussa
+    # /usr/local/apache2/htdocs vain luku-tilassa.
+    volumes:
+      - ../build:/usr/local/apache2/htdocs:ro
