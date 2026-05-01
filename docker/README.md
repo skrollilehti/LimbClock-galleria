@@ -4,7 +4,7 @@ Tässä README tiedostossa kerrotaan kuinka sivustoa ajetaan paikallisesti [Dock
 
 "Virallista" http://limbclock.metsankulma.net/ sivustoa ylläpidetään [ISP](https://en.wikipedia.org/wiki/Internet_service_provider) palvelimelta käyttäen jaettua Apache HTTP palvelinta ([shared web hosting](https://en.wikipedia.org/wiki/Shared_web_hosting_service)).
 
-Tämän ISP:n käyttämän tekniikan takia sivusto käyttää Apache HTTP palvelimen konfigurointiin `.htaccess` tiedostoa jonka käyttöä ei muissa tilanteissa suositella. Yleisesti palvelin olisi aina syytä konfiguroida käyttämällä palvelimen pääasiallista konfigurointitiedostoa (` httpd.conf.`). Palvelimen [dokumentaatio](https://httpd.apache.org/docs/2.4/howto/htaccess.html):
+Tämän ISP:n käyttämän tekniikan takia sivusto käyttää Apache HTTP palvelimen konfigurointiin `.htaccess` tiedostoa jonka käyttöä ei muissa tilanteissa suositella. Yleisesti palvelin olisi aina syytä konfiguroida käyttämällä palvelimen pääasiallista konfigurointitiedostoa (`httpd.conf`). Palvelimen [dokumentaatio](https://httpd.apache.org/docs/2.4/howto/htaccess.html):
 
 > In general, you should only use .htaccess files when you don't have access to the main server configuration file.
 > [...]

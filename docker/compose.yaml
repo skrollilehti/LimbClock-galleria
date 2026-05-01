@@ -1,10 +1,10 @@
 services:
   web:
-    # Luodaan image Dockerfilen perusteella.
+    # Luodaan kuva Dockerfilen perusteella.
     build:
       context: .
       dockerfile: Dockerfile
-    # Annetaan imagelle tunnistettava nimi.
+    # Annetaan kuvalle tunnistettava nimi.
     image: limbclock-galleria:latest
     # Määritellään mitkä portit näkyvät kontista ulospäin.
     ports:
