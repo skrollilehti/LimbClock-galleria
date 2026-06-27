@@ -7,7 +7,7 @@ Tässä repositoriossa on kaksi toisiinsa liittyvää kokonaisuutta:
 
 `bin/` hakemistoon on taltioitu myös käytetty Saxon XSLT prosessori. Koska prosessori sisältää yhden tiedoston joka ylittää GitHubin tiedoston enimmäiskoon joudutaan käyttämään [Git Large File Storage](https://git-lfs.com/) (LFS) ominaisuuttaa.
 
-Galleriasta voi lukea tarkemmin Skrollin numerosta [2024.1](https://skrolli.fi/numerot/2024-1/). Ohjelmisto on muuttunut artikkelin kirjoittamisen jälkeen. Tarkalleen artikkelia vastaava ohjelmistoversio on merkitty tagilla `skrolli.2024.1`.
+Galleriasta voi lukea tarkemmin Skrollin numeroista [2024.1](https://skrolli.fi/numerot/2024-1/) ja [2026.2](https://skrolli.fi/numerot/2026-2). Ohjelmisto on muuttunut artikkelien kirjoittamisen jälkeen. Tarkalleen artikkeleja vastaavat ohjelmistoversiot on merkitty tageilla `skrolli.2024.1` ja `skrolli.2026.2`.
 
 Ohjelmakoodi on lisensoitu [MIT-lisenssillä](https://fi.wikipedia.org/wiki/MIT-lisenssi) copyright (c) 2023 Skrolli ry.
 
