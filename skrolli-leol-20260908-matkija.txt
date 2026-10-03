@@ -1,1 +1,1 @@
-Vitsin takaa: Tämä onkin ensimmäinen kerta jossa piirsin hahmot erillisessä tiedostossa ja toin ne sitten sarjakuvastrippi tiedostoon ja muuttelin kokoa sopivaksi
+Tämä on ensimmäinen kerta kun piirsin hahmot erillisessä tiedostossa, toin ne sarjakuvastrippitiedostoon ja muunsim koot sopiviksi.
